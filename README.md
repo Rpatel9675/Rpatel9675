@@ -50,3 +50,12 @@
 - LinkedIn: [Rocky Patel](https://www.linkedin.com/in/rocky-patel-36070020a/)
 - GitHub: [Rpatel9675](https://github.com/Rpatel9675)
 
+###
+
+<h2 align="left">Skill Sets</h2>
+
+- **Languages:** C, C++, SQL, Python
+- **Front-End:** HTML, CSS, JavaScript
+- **Back-End:** Node.js, Express.js, Cookies Parser, Multer, RESTful APIs
+- **Database:** MongoDB, MySQL
+- **Tools:** Visual Studio Code, Git, Jupyter Notebook, 3D Printing
