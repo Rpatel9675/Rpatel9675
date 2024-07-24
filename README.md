@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Robotics hand gripper using 3-D printing](https://github.com/Rpatel9675/Robotics-Hand-Gripper)
 - 🌱 I’m currently learning **React & Vue.js**
 - 📫 How to reach me **pprl735757@gmail.com**
-- 📄 Know about my experiences [here](https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=fjfxxwie&dl=0)
+- 📄 [Know about my experiences](https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=fjfxxwie&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
