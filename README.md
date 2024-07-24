@@ -64,10 +64,20 @@
   <a href="https://leetcode.com/u/pprl735757/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/pprl735757" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo"  />
+  </a>
+  <a href="https://www.facebook.com/people/rocky-patel/pfbid0k62q2rarwdus3mxvlrsywy2ygamx86gjj7mlfweoms1ehc7ygxf9ykfkaanby51sl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
   <a href="mailto:pprl735757@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
 
 
 ###
