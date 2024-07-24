@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rocky Patel and I'm a Web Developer and Engineering Student from Kolkata.</h2>
+<h2 align="left">Hi 👋! My name is Rocky Patel, currently pursuing a B.Tech degree at IEM, Kolkata, with a strong foundation in computer science and web development</h2>
 
 ###
 
@@ -84,4 +84,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rpatel9675/rpatel9675/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/your-username/your-repo-name/blob/main/path-to-snake.svg" alt="Snake animation" />
