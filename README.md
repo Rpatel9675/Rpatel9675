@@ -84,4 +84,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/your-username/your-repo-name/blob/main/path-to-snake.svg" alt="Snake animation" />
+
