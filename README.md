@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rocky Patel, currently pursuing a B.Tech degree at IEM, Kolkata, with a strong foundation in computer science and web development</h2>
+<h2 align="left">Hi 👋! My name is Rocky Patel, currently pursuing a B.Tech at IEM, Kolkata, with a strong foundation in computer science and web development</h2>
 
 ###
 
