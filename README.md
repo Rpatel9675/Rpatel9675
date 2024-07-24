@@ -70,8 +70,8 @@
   <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo"  />
   </a>
-  <a href="https://www.facebook.com/people/rocky-patel/pfbid0k62q2rarwdus3mxvlrsywy2ygamx86gjj7mlfweoms1ehc7ygxf9ykfkaanby51sl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=j3cejmm1&dl=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=file-pdf&label=&color=FF6F61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo"  />
   </a>
   <a href="mailto:pprl735757@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
