@@ -55,6 +55,14 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
+
+## Leetcode
+<div style="display: flex; align-items: center;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pprl735757&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
+  <img src="https://leetcard.jacoblin.cool/pprl735757?ext=contest&theme=lapor" alt="Leetcode Stats"/>
+</div>
+
 ## My Journey
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rpatel9675&show_icons=true&theme=dracula">
