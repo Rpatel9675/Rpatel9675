@@ -55,6 +55,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
 </div>
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
 
 ## Leetcode
