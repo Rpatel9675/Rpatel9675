@@ -20,7 +20,6 @@
 - 1+ years of experience in React and Node.js.
 - 🏆 Experienced in developing APIs, RESTful services, and full-stack web applications.
 - HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, CI/CD.
-![](https://komarev.com/ghpvc/?username=Rpatel9675)
 
 ## Languages and Tools:
 <div align="left">
@@ -55,6 +54,8 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
 </div>
+<br>
+![](https://komarev.com/ghpvc/?username=Rpatel9675)
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
