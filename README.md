@@ -20,6 +20,7 @@
 - 1+ years of experience in React and Node.js.
 - 🏆 Experienced in developing APIs, RESTful services, and full-stack web applications.
 - HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, CI/CD.
+![](https://komarev.com/ghpvc/?username=Rpatel9675)
 
 ## Languages and Tools:
 <div align="left">
@@ -105,4 +106,3 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
-![](https://komarev.com/ghpvc/?username=Rpatel9675)
