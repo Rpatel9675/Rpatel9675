@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Rocky Patel 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
@@ -23,36 +22,60 @@
 
 ## Languages and Tools:
 <div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="expressjs logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="bootstrap logo" /></code>
-  <img width="12" />
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="matlab logo" /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
+   <a href="#macropower-tech">
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+   </a>
+   <a href="#javascript">
+     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+   </a>
+   <a href="#cplusplus">
+     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+   </a>
+ <a href="#react">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
+</a>
+   <a href="#html5">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
+   </a>
+   <a href="#css3">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" width="65" height="65" />
+   </a>
+   <a href="#c">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
+   </a>
+   <a href="#nodejs">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
+   </a>
+   <a href="#express">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
+   </a>
+   <a href="#mongodb">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
+   </a>
+   <a href="#mysql">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
+   </a>
+   <a href="#restapi">
+     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API icon" width="65" height="65" />
+   </a>
+   <a href="#git">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon" width="65" height="65" />
+   </a>
+   <a href="#github">
+     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
+   </a>
+   <a href="#bootstrap">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
+   </a>
+   <a href="#matlab">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab icon" width="65" height="65" />
+   </a>
+   <a href="#arduino">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino icon" width="65" height="65" />
+   </a>
+     <a href="#mysql">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="65" height="65" />
+  </a>
 </div>
 <br>
 
@@ -77,6 +100,7 @@
 
 ## Connect with me:
 <div align="left">
+
   <a href="https://www.instagram.com/r0k_i7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -105,7 +129,12 @@
 
 
 
+
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
+
+
+
 
 
