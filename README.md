@@ -137,14 +137,3 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
-
-## Leetcode
-<div style="display: flex; align-items: center;">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rpatel9675&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
-  <img src="https://leetcard.jacoblin.cool/Rpatel9675?ext=contest&theme=lapor" alt="Leetcode Stats"/>
-</div>
-<p>Visit my LeetCode profile <a href="https://leetcode.com/u/Rpatel9675/" target="_blank">here</a>.</p>
-
-
-
-
