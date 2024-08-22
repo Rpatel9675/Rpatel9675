@@ -86,10 +86,11 @@
 
 ## Leetcode
 <div style="display: flex; align-items: center;">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rpatel9675&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
-  <img src="https://leetcard.jacoblin.cool/Rpatel9675?ext=contest&theme=lapor" alt="Leetcode Stats"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=Rpatel9675&theme=dark&hide=ranking,solved" alt="LeetCode Stats" style="margin-right: 10px;"/>
+  <img src="https://leetcard.jacoblin.cool/Rpatel9675?ext=heatmap&theme=dark" alt="Leetcode Stats"/>
 </div>
 <p>Visit my LeetCode profile <a href="https://leetcode.com/u/Rpatel9675/" target="_blank">here</a>.</p>
+
 
 ## My Journey
 <div align="center">
